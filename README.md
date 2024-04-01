@@ -1,3 +1,5 @@
+## Predicting popularity of online news articles
+
 With changing times all forms of media are shifting from print to digital, news is no exception. For
 news outlets, publishing news articles online can prove to be a step up from traditional newspapers
 because user interaction can be taken into consideration to assess if an article proved to be popular
